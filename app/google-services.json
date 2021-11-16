@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647254489342",
+    "firebase_url": "https://socialmediaintegration-d2532-default-rtdb.firebaseio.com",
+    "project_id": "socialmediaintegration-d2532",
+    "storage_bucket": "socialmediaintegration-d2532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647254489342:android:ddd62b20392add7bb18daf",
+        "android_client_info": {
+          "package_name": "com.khushi.sparksocialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647254489342-6tgt3vh82khu3a193q0s0qc2s46l5ko4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khushi.sparksocialmediaapp",
+            "certificate_hash": "135f1718a2684247a917e0442f67fe036af0a50b"
+          }
+        },
+        {
+          "client_id": "647254489342-mdrfj9ti89a94akud4pm6rjit743c1t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0TsvVQF7Dsgv3JXQP_JyOXMPPUFA6Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647254489342-mdrfj9ti89a94akud4pm6rjit743c1t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
